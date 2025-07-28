@@ -1,0 +1,11 @@
+[/]
+clock-show-seconds=true
+clock-show-weekday=false
+color-scheme='prefer-dark'
+cursor-theme='catppuccin-mocha-mauve-cursors'
+font-antialiasing='grayscale'
+font-hinting='slight'
+gtk-theme='Catppuccin-Dark-Macchiato'
+icon-theme='Papirus'
+locate-pointer=true
+toolkit-accessibility=false
