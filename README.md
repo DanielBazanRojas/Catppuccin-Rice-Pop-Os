@@ -34,6 +34,13 @@ Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, c
 ---
 
 
+## 💡 Íconos y Temas
+
+- Tema usado: [Catppuccin GTK Theme](https://www.pling.com/p/1715554/)
+- Carpetas usadas: [Papirus](https://github.com/catppuccin/papirus-folders).
+- Cursores usados: [Catppuccin Cursors](https://github.com/catppuccin/cursors).
+
+
 ## 📁 Estructura del repositorio
 
 ```bash
@@ -55,12 +62,3 @@ Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, c
 │   	└── Workspaces.png
 └── README.md
 
-
----
-
-
-## 💡 Íconos y Temas
-
-- Tema usado: [Catppuccin GTK Theme](https://www.pling.com/p/1715554/)
-- Carpetas usadas: [Papirus](https://github.com/catppuccin/papirus-folders).
-- Cursores usados: [Catppuccin Cursors](https://github.com/catppuccin/cursors).
