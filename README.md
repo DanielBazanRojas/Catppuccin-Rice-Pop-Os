@@ -8,11 +8,11 @@ Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, c
 
 ## 📸 Capturas
 
-![Escritorio con pop-shell y tema Catppuccin](./images/screenshots/Desktop.png)  
-*Escritorio personalizado con tiling automático y tema GTK.*
+![Escritorio con pop-shell y tema Catppuccin](./images/screenshots/Desktop.png)
 
-![Neofetch + Htop + Cmatrix](./images/screenshots/Screen_Terminal.png)  
-*Terminal kitty con neofetch, htop y cmatrix | Todos necesitan previa instalación.*
+![Neofetch + Htop + Cmatrix](./images/screenshots/Screen_Terminal.png)
+
+![Vista de los Workspaces + Youtube Music App](./images/screenshots/Workspaces.png)
 
 ---
 
