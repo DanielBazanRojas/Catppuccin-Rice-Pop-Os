@@ -2,19 +2,26 @@
 
 Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, con tiling automático, configuración de terminal, neofetch personalizado, temas GTK y cursores.
 
-> 📷 Capturas abajo | 🔧 Compatible con Pop!_OS 22.04+ | 💻 Requiere GNOME y pop-shell
+
+> 🔧 Compatible con Pop!_OS 22.04+
+
 
 ---
+
 
 ## 📸 Capturas
 
 ![Escritorio con pop-shell y tema Catppuccin](./images/screenshots/Desktop.png)
 
+![Folders](./images/screenshots/Folders.png)
+
 ![Neofetch + Htop + Cmatrix](./images/screenshots/Screen_Terminal.png)
 
 ![Vista de los Workspaces + Youtube Music App](./images/screenshots/Workspaces.png)
 
+
 ---
+
 
 ## 🧰 Características
 
@@ -23,7 +30,9 @@ Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, c
 - 🖥️ Terminal `kitty` con fuente Hack Nerd Font y colores inspirados en Catppuccin Style  
 - 📦 Neofetch con configuración personalizada
 
+
 ---
+
 
 ## 📁 Estructura del repositorio
 
@@ -41,6 +50,17 @@ Un rice basado en el estilo Catppuccin Macchiato para Pop!_OS basado en GNOME, c
 │   ├── sushi.jpg
 │   └── screenhots/
 │   	├── Desktop.png
+│   	├── Folders.png
 │   	├── Screen_Terminal.png
 │   	└── Workspaces.png
 └── README.md
+
+
+---
+
+
+## 💡 Íconos y Temas
+
+- Tema usado: [Catppuccin GTK Theme](https://www.pling.com/p/1715554/)
+- Carpetas usadas: [Papirus](https://github.com/catppuccin/papirus-folders).
+- Cursores usados: [Catppuccin Cursors](https://github.com/catppuccin/cursors).
